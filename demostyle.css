@@ -110,145 +110,71 @@ body {
 
 
 .ess1 {
-  width: 50%;
+  width: 95%;
   height: auto;
   float: left;
-  padding-top: 10%;
 }
 
 .ess2 {
-  width: 30%;
+  width: 80%;
   height: auto;
-  float: right;
-  padding-top: 20%;
-  padding-right: 10%;
+  padding-top: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
 .gas1 {
-  width: 50%;
+  width: 95%;
   height: auto;
+  padding-top: 15%;
   float: right;
-  padding-top: 25%;
 }
 
 .gas2 {
-  width: 40%;
+  width: 80%;
   height: auto;
-  float: left;
-  padding-top: 17%;
-  padding-left: 5%;
+  padding-top: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .gloves1 {
-  width: 50%;
+  width: 95%;
   height: auto;
   float: left;
   padding-top: 15%;
 }
 
 .gloves2 {
-  width: 30%;
+  width: 80%;
   height: auto;
-  float: right;
-  padding-top: 23%;
-  padding-right: 10%; 
+  padding-top: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .id1 {
-  width: 50%;
+  width: 95%;
   height: auto;
   float: right;
-  padding-top: 23%;
+  padding-top: 15%;
 }
 
 .id2 {
-  width: 30%;
+  width: 80%;
   height: auto;
-  float: left;
-  padding-top: 23%;
-  padding-left: 10%;
-  padding-bottom: 23%;
+  padding-top: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10%;
 }
 
 .foot {
   width: 100%;
   height: auto;
-}
-
-@media (max-width: 479px) {
-  .logo {
-    width: 70%;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    position: sticky;
-      top: 0;
-  }
-
-  .ess1 {
-    width: 95%;
-    height: auto;
-    float: left;
-  }
-
-  .ess2 {
-    width: 80%;
-    height: auto;
-    padding-top: 15%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-
-  .gas1 {
-    width: 95%;
-    height: auto;
-    padding-top: 15%;
-    float: right;
-  }
-
-  .gas2 {
-    width: 80%;
-    height: auto;
-    padding-top: 15%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .gloves1 {
-    width: 95%;
-    height: auto;
-    float: left;
-    padding-top: 15%;
-  }
-
-  .gloves2 {
-    width: 80%;
-    height: auto;
-    padding-top: 15%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .id1 {
-    width: 95%;
-    height: auto;
-    float: right;
-    padding-top: 15%;
-  }
-
-  .id2 {
-    width: 80%;
-    height: auto;
-    padding-top: 15%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 10%;
-  }
 }
